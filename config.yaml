@@ -1,0 +1,11 @@
+database:
+  user: postgres
+  password: "1234"
+  host: localhost
+  port: 5432
+  name: ai_workshop
+
+gemini:
+  api_key: "AQ.abcd"
+  text_model: gemini-3.5-flash-lite
+  embedding_model: gemini-embedding-001
